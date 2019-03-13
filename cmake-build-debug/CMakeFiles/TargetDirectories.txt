@@ -1,0 +1,3 @@
+C:/Users/bhatt/CLionProjects/nqueensbacktrack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bhatt/CLionProjects/nqueensbacktrack/cmake-build-debug/CMakeFiles/nqueensbacktrack.dir
+C:/Users/bhatt/CLionProjects/nqueensbacktrack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
